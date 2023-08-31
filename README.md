@@ -1,0 +1,1 @@
+Bootcamp 31 Agustus 2023 - Tugas 4 (Membuat ERD, DDL, dan Query)
