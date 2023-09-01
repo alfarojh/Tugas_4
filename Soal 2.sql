@@ -85,10 +85,10 @@ ALTER TABLE IF EXISTS public."Nilai Tugas"
 INSERT INTO public."Peserta"("Nama")
 VALUES
     ('Dodi'),
-	('Santi'),
-	('Budi'),
-	('Susi'),
-	('Mail'),
+    ('Santi'),
+    ('Budi'),
+    ('Susi'),
+    ('Mail'),
     ('Alice'),
     ('Bob'),
     ('Carol'),
